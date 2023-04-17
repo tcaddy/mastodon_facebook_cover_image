@@ -1,0 +1,4 @@
+apprise
+facebook-scraper
+python-daemon
+requests
